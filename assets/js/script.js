@@ -29,9 +29,9 @@ class Personajes {
 
 // Fecth para sacar de la API y async await para promesa
 async function fetchPersonajes(inicio, fin) {
-
+    var espacioPersonaje;
     if(fin <=6){
-    var espacioPersonaje = espacioPersonaje1;
+    espacioPersonaje = espacioPersonaje1;
     } else{
         if(fin <=12){
             espacioPersonaje = espacioPersonaje2;
