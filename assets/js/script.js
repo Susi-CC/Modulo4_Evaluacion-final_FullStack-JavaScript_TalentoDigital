@@ -34,7 +34,7 @@ async function fetchPersonajes(inicio, fin) {
     var espacioPersonaje = espacioPersonaje1;
     } else{
         if(fin <=12){
-            var espacioPersonaje = espacioPersonaje2;
+            espacioPersonaje = espacioPersonaje2;
         }
         else{
             espacioPersonaje = espacioPersonaje3;
