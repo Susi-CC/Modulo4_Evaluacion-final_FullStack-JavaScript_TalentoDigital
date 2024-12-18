@@ -10,3 +10,19 @@ El objetivo de la evaluación es demostrar que se poseen los conocimientos de Ja
 Index.html es el código html
 
  assets/js contiene el código JavaScript (script.js) y  assets/css contiene el código CSS (styles.css)
+
+### Estructura del Proyecto
+
+├── assets
+
+│   ├── css
+
+│   │   └── styles.css    # Estilos CSS de la aplicación
+
+│   └── js
+
+│       └── script.js     # Código JavaScript que controla la lógica
+
+├── index.html            # Archivo HTML principal
+
+└── README.md             # Documentación del proyecto
