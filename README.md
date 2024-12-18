@@ -5,7 +5,7 @@ El trabajo consistía en crear una aplicación web que muestre la altura y el pe
 
 El objetivo de la evaluación es demostrar que se poseen los conocimientos de JavaScript necesarios para obtener información de una API y mostrarla de manera dinámica al sostener el mouse sobre el recuadro.
 
-Contenido:
+### Contenido:
 
 Index.html es el código html
 
