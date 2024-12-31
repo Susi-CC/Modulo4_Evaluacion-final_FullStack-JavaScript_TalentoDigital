@@ -14,7 +14,7 @@ class Personajes {
     }
 
     static async crear(i) {
-        let response = await fetch(`https://swapi.dev/api/people/${i}/`);
+        let response = await fetch(`https://swapi.py4e.com/api/people/${i}/`);
         let personaje = await response.json();
 
         return new Personajes(personaje.name, personaje.height, personaje.mass);
